@@ -21,10 +21,10 @@ This project aims to provide a comprehensive analysis of basketball data, focusi
 * Tableau
 
 ## 4. Project Structure
-*Data Acquisition
-*Data Cleaning & Preprocessing
-*Interactive Visualizations
-*reating dash-boards
+* Data Acquisition
+* Data Cleaning & Preprocessing
+* Interactive Visualizations
+* Creating dash-boards
 
 ## 5. Getting Started
 

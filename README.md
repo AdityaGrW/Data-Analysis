@@ -31,7 +31,7 @@ This project aims to provide a comprehensive analysis of basketball data, focusi
 ### 5.1 Prerequisites
 * Python 3.x
 * Pip
-* Tableau Desktop
+* Tableau Desktop / Power Bi
 
 ### 5.2 Installation
 

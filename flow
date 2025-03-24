@@ -1,0 +1,13 @@
+Data-Analysis/
+├── data/
+│   ├── raw/
+│   ├── cleaned/
+├── notebooks/
+├── scripts/
+│   ├── data_extraction.py
+│   ├── data_cleaning.py
+│   ├── data_analysis.py
+│   ├── data_visualization.py
+├── README.md
+├── requirements.txt
+├── .gitignore

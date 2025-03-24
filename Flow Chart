@@ -1,8 +1,5 @@
 Data-Analysis/
 ├── data/
-│   ├── raw/
-│   ├── cleaned/
-├── notebooks/
 ├── scripts/
 │   ├── data_extraction.py
 │   ├── data_cleaning.py
